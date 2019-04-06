@@ -1,4 +1,3 @@
-// const d3 = Object.assign({}, require('../node_modules/d3'));
 const d3 = require('../node_modules/d3');
 const cloud = require('../node_modules/d3-cloud');
 
